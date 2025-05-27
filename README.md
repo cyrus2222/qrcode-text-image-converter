@@ -1,0 +1,1 @@
+# qrcode-text-image-converter
